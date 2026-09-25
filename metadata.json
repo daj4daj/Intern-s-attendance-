@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance & Activity Management System",
+  "description": "Comprehensive institutional platform for managing student accounts, geofenced sign-in/sign-out, leave requests, attendance calendars, analytics dashboards, and compliance reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
